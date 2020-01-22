@@ -1,0 +1,20 @@
+ul {
+    border: 5px;
+    border-color: darkcyan;
+    border-radius: 2px;
+    border-style: double;
+    width: 25%;
+}
+
+body {
+    font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif;
+    font-style: oblique;
+}
+
+p {
+    font-style: normal;
+}
+
+ul {
+    
+}
